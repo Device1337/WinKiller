@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Cz6uXs5ey/PqWHhUA6Ar7xM5gvhaR7tdBvkelJ3CZPIcrEDNWx2slN7jJUqY6CLwPeIXedNGzn02l3N7/qzrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tufxcb uhrtysdfgx57e\\Desktop\\ss\\DisableWinDef\\DisableWinDef\\DisableWinDef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tufxcb uhrtysdfgx57e\\.nuget\\packages\\microsoft.powershell.5.referenceassemblies\\1.1.0\\microsoft.powershell.5.referenceassemblies.1.1.0.nupkg.sha512",
+    "C:\\Users\\tufxcb uhrtysdfgx57e\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.24\\microsoft.netcore.app.runtime.win-x64.6.0.24.nupkg.sha512",
+    "C:\\Users\\tufxcb uhrtysdfgx57e\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.24\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.24.nupkg.sha512",
+    "C:\\Users\\tufxcb uhrtysdfgx57e\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.24\\microsoft.aspnetcore.app.runtime.win-x64.6.0.24.nupkg.sha512",
+    "C:\\Users\\tufxcb uhrtysdfgx57e\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.24\\microsoft.netcore.app.crossgen2.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.PowerShell.5.ReferenceAssemblies 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.PowerShell.5.ReferenceAssemblies",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

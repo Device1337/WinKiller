@@ -1,0 +1,17 @@
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\System.Management.Automation.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.csproj.AssemblyReference.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.AssemblyInfoInputs.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.AssemblyInfo.cs
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.csproj.CoreCompileInputs.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.csproj.CopyComplete
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\DisableWinDef.genruntimeconfig.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\WinKiller.exe
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\WinKiller.deps.json
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\WinKiller.runtimeconfig.json
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\WinKiller.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\WinKiller.pdb
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\WinKiller.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\refint\WinKiller.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\WinKiller.pdb
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Release\net6.0\ref\WinKiller.dll

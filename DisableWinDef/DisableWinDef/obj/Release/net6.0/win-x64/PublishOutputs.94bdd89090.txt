@@ -1,0 +1,2 @@
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\publish\win-x64\WinKiller.pdb
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Release\net6.0\publish\win-x64\WinKiller.exe

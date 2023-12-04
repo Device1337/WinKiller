@@ -1,0 +1,17 @@
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Debug\net6.0\DisableWinDef.exe
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Debug\net6.0\DisableWinDef.deps.json
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Debug\net6.0\DisableWinDef.runtimeconfig.json
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Debug\net6.0\DisableWinDef.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Debug\net6.0\DisableWinDef.pdb
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\bin\Debug\net6.0\System.Management.Automation.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.csproj.AssemblyReference.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.AssemblyInfoInputs.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.AssemblyInfo.cs
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.csproj.CoreCompileInputs.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.csproj.CopyComplete
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\refint\DisableWinDef.dll
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.pdb
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\DisableWinDef.genruntimeconfig.cache
+C:\Users\tufxcb uhrtysdfgx57e\Desktop\ss\DisableWinDef\DisableWinDef\obj\Debug\net6.0\ref\DisableWinDef.dll
